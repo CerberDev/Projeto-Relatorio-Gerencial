@@ -9,4 +9,4 @@ def resolve_path(relative_path: str) -> Path:
 CONFIG_DIR = resolve_path('config')
 
 # Corrigido: renomeado de RAW_DIIR para RAW_DIR
-RAW_DIR = resolve_path('data/raw')
+DATA_RAW_DIR = resolve_path('data/raw')
