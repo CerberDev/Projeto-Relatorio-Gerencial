@@ -1,1 +1,5 @@
 config/
+Notebook/
+.env
+logs/
+__pycache__/
