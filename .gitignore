@@ -3,3 +3,4 @@ Notebook/
 .env
 logs/
 __pycache__/
+data/
